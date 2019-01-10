@@ -1,0 +1,9 @@
+/Users/govind/Documents/GovindGitProjects/SimpleMVVM/SimpleMVVM/SimpleMVVM/obj/Debug/netstandard2.0/SimpleMVVM.csprojResolveAssemblyReference.cache
+/Users/govind/Documents/GovindGitProjects/SimpleMVVM/SimpleMVVM/SimpleMVVM/obj/Debug/netstandard2.0/SimpleMVVM.csproj.CoreCompileInputs.cache
+/Users/govind/Documents/GovindGitProjects/SimpleMVVM/SimpleMVVM/SimpleMVVM/obj/Debug/netstandard2.0/SimpleMVVM.AssemblyInfoInputs.cache
+/Users/govind/Documents/GovindGitProjects/SimpleMVVM/SimpleMVVM/SimpleMVVM/obj/Debug/netstandard2.0/SimpleMVVM.AssemblyInfo.cs
+/Users/govind/Documents/GovindGitProjects/SimpleMVVM/SimpleMVVM/SimpleMVVM/obj/Debug/netstandard2.0/SimpleMVVM.dll
+/Users/govind/Documents/GovindGitProjects/SimpleMVVM/SimpleMVVM/SimpleMVVM/obj/Debug/netstandard2.0/SimpleMVVM.pdb
+/Users/govind/Documents/GovindGitProjects/SimpleMVVM/SimpleMVVM/SimpleMVVM/bin/Debug/netstandard2.0/SimpleMVVM.deps.json
+/Users/govind/Documents/GovindGitProjects/SimpleMVVM/SimpleMVVM/SimpleMVVM/bin/Debug/netstandard2.0/SimpleMVVM.dll
+/Users/govind/Documents/GovindGitProjects/SimpleMVVM/SimpleMVVM/SimpleMVVM/bin/Debug/netstandard2.0/SimpleMVVM.pdb

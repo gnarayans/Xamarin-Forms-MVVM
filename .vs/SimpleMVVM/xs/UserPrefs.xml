@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{C53BA33F-914F-46C5-96BA-072EC8E8DE2B}|Default">
+  <MonoDevelop.Ide.ItemProperties.SimpleMVVM.Android PreferredExecutionTarget="Android.Nexus_5X_API_27" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
